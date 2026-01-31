@@ -22,7 +22,7 @@ Specialized in designing and delivering production-grade applications with exper
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Projects (Specimen)
 
 ### 📚 Library Management System (DDD)
 [GitHub →](https://github.com/raviinit/library-management-system-ddd)
@@ -42,7 +42,7 @@ Laravel-based REST API for loan lifecycle management—account creation, status 
 
 ---
 
-## 🔧 Integration & R&D Projects
+## 🔧 Integration & R&D Projects (Specimen)
 
 | Project | Purpose | Tech Stack | Link |
 |--------|---------|------------|------|
@@ -55,7 +55,7 @@ Laravel-based REST API for loan lifecycle management—account creation, status 
 
 ---
 
-## 🏢 Enterprise Experience
+## 🏢 Enterprise Experience (Specimen)
 
 Delivered production solutions for global organizations:
 
@@ -67,10 +67,11 @@ Delivered production solutions for global organizations:
 | **SpectrumIntel** | Healthcare | Third-party service integrations |
 | **Signum International** | Finance | Payment processing, data systems |
 
-🌐 Live implementations:  
+🌐 Live implementations: 
 → [ecuworldwide.com](https://ecuworldwide.com)  
 → [logiwareinc.com](https://www.logiwareinc.com)  
 → [imeetcentral.com](https://imeetcentral.com)
+and more
 
 ---
 
@@ -90,9 +91,9 @@ Delivered production solutions for global organizations:
 
 ---
 
-## ▶️ Demo Resources
+## ▶️ Demo Resources (Specimen)
 
-- 📹 [ECU Dashboard Demo (Laravel + Bootstrap)](https://drive.google.com/file/d/1i4SLDsw22frd_mJ8X27DtZtxvXcGfZIB/view)
+- 📹 [ECU Dashboard Demo (Laravel + Bootstrap)]
 - 📹 [Core PHP Code Walkthrough](https://drive.google.com/file/d/1CSAwDxU7b38Y1mXxWJBOXihIhLhZLMVF/view)
 - 📹 [Loan API Postman Demo](https://drive.google.com/file/d/1UzU12piRVpWXoypSHmt3y1g1dfdKwxZb/view)
 - 📁 [Architecture Documents](https://drive.google.com/drive/folders/1RFrvUxw8UyOnfQ7EUHIQqU1bVc08sh24)
@@ -106,6 +107,13 @@ Delivered production solutions for global organizations:
 ✅ **Architecture Awareness** – Balance between pragmatic delivery and clean design  
 ✅ **Multi-Cloud Experience** – Deployed on AWS, Azure, and bare-metal environments  
 ✅ **End-to-End Ownership** – From database design to UI implementation and deployment
+
+Developed several projects and applications, including APIs, Payment gateway integrations, Google Maps, Vehicle/GPS tracking, etc. for Logistics, 
+Gaming, eCommerce, Health and Finance domains, also provided solutions and POCs using PHP, Laravel, CodeIgniter, Zend, Symfony, Classic ASP, 
+JavaScript, jQuery, HTML, CSS, etc. technologies on non-cloud (dedicated servers) and cloud servers, i.e. Azure, AWS, etc. Migrated and configured VMs 
+deployed applications on EC2, Lightsail, etc. cloud platforms. Used Docker containers in the most recent companies and used React as the front-end, 
+which consumes the developed APIs. Since I have good working knowledge of multiple technologies, I can support and/or enhance the applications as per 
+the requirements. I am a quick learner and can understand the system easily for any development.
 
 ---
 
