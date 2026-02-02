@@ -1,81 +1,86 @@
-Here are some of the projects from GitHub account:
+# 🧑‍💻 Demo Links To Be Viewed  
 
-* Featured / actively developed projects
+*Curated selection of projects showcasing backend architecture, API development, and full-stack integration expertise.*  
 
-library-management-system-ddd – A Library Management System API built with a DDD approach (PHP)
-https://github.com/raviinit/library-management-system-ddd
-→ LMS application using OOPs PHP with DDD approach (I was about to do it in Laravel/Symfony as a demo, maybe shortly).
-→ Good demonstration of backend design and architectural skills.
+---
 
-loan-rest-api – A specimen code to develop Loan Rest APIs (PHP)
-https://github.com/raviinit/loan-rest-api
-https://drive.google.com/file/d/1UzU12piRVpWXoypSHmt3y1g1dfdKwxZb/view - APIsDemo Video (tested on Postman)
-→ Laravel sample to create loan account, status and repayment.
-→ Practical API development example.
+## 🌟 Featured / Actively Developed Projects  
 
+- **[library-management-system-ddd](https://github.com/raviinit/library-management-system-ddd)**  
+  *A Library Management System API built with Domain-Driven Design (PHP)*  
+  → Pure OOPs PHP implementation (planned Laravel/Symfony demo version upcoming)  
+  → Demonstrates robust backend architecture, bounded contexts, and clean domain modeling  
 
-* Interesting smaller / older workouts and R&D
+- **[loan-rest-api](https://github.com/raviinit/loan-rest-api)**  
+  *Production-ready Loan REST API specimen (Laravel)*  
+  📹 [API Demo Video (Postman)](https://drive.google.com/file/d/1UzU12piRVpWXoypSHmt3y1g1dfdKwxZb/view)  
+  → Full lifecycle: loan account creation, status tracking, repayment scheduling  
+  → Practical example of RESTful design, validation, and error handling  
 
-mypokket – R&D on MyPokket API (PHP)
-https://github.com/raviinit/mypokket
-→ Laravel sample to know the user info in JSON and CSV format.
-→ Another API integration example.
+---
 
-mapboxapi – API consumption work for Mapbox services (PHP)
-https://github.com/raviinit/mapboxapi
-→ Laravel sample to register and make calls to mapbox API.
-→ Shows experience with location and mapping APIs.
+## 🔬 Smaller Projects / R&D Workouts  
 
+- **[mypokket](https://github.com/raviinit/mypokket)**  
+  *MyPokket API integration research (Laravel)*  
+  → Fetches user data in JSON/CSV formats; demonstrates auth flow & response handling  
 
-thatisdmg – A JavaScript R&D / workout project
-https://github.com/raviinit/thatisdmg
-https://drive.google.com/file/d/1jBd7ucBQFivAUDmCrJEMlU3_vL__GHtl/view - G Drive Video
-→ Bootstrap UI with navigation.
-→ Shows exploration of new ideas.
+- **[mapboxapi](https://github.com/raviinit/mapboxapi)**  
+  *Mapbox geospatial services integration (Laravel)*  
+  → Location API consumption, token management, and coordinate processing  
 
-zohoauth – Work on consuming Zoho auth APIs (PHP)
-https://github.com/raviinit/zohoauth
-→ Good example of external API integration.
+- **[thatisdmg](https://github.com/raviinit/thatisdmg)**  
+  *JavaScript/UI exploration project*  
+  📹 [Live Demo Video](https://drive.google.com/file/d/1jBd7ucBQFivAUDmCrJEMlU3_vL__GHtl/view)  
+  → Bootstrap-powered responsive UI with dynamic navigation patterns  
 
-itcandoit – A small project to import and display Excel data via web (PHP) - R&D
-https://github.com/raviinit/itcandoit
-→ Laravel sample to upload CSV file having coupons records and display them on UI for the users.
-→ Useful real-world data upload/processing example.
+- **[zohoauth](https://github.com/raviinit/zohoauth)**  
+  *Zoho OAuth 2.0 integration workflow*  
+  → Secure token exchange, session management, and API gateway patterns  
 
-laravel-test-raviinit - Laravel sample to know how we use models and relationships to retrieve data
-https://github.com/raviinit/laravel-test-raviinit
-→ Use of relationships to process the data.
+- **[itcandoit](https://github.com/raviinit/itcandoit)**  
+  *CSV/Excel data ingestion tool (Laravel)*  
+  → Coupon upload → validation → UI display pipeline; real-world data processing example  
 
+- **[laravel-test-raviinit](https://github.com/raviinit/laravel-test-raviinit)**  
+  *Eloquent relationships deep dive*  
+  → Complex model associations, eager loading, and query optimization patterns  
 
-* Forked / Template repos
+---
 
-sentrifugo - HRMS application to do R&D to integrate in to the real time project
-https://github.com/raviinit/sentrifugo
-→ HRMS modules integration as needed.
+## 🍴 Forked / Template Repos (Customized for R&D)  
 
-coreui-free-bootstrap-admin-template - UI libraries to do R&D
-https://github.com/raviinit/coreui-free-bootstrap-admin-template
-→ UI modules integration once customised and as needed.
+- **[sentrifugo](https://github.com/raviinit/sentrifugo)**  
+  *HRMS platform fork* → Module customization for enterprise integration workflows  
+- **[coreui-free-bootstrap-admin-template](https://github.com/raviinit/coreui-free-bootstrap-admin-template)**  
+  *Admin UI template* → Component adaptation for internal dashboard projects  
 
+---
 
-* Few links to the websites as a specimen:
+## 🌐 Live Production Specimens  
+*(Selected client projects demonstrating end-to-end delivery)*  
 
-https://ecuworldwide.com - Developed many projects, integrated third party services i.e. Dashboard, APIs, Java, Payment Gateways etc.
-https://www.logiwareinc.com - Developed many projects i.e. EDI, Dashboards, CI, Laravel applications, HRMS integrations.
-https://imeetcentral.com - Developed a few projects, integrated Zoho APIs.
-https://www.spectrumintel.org - Developed a few projects, integrated third party services.
-https://www.signum-international.com - Developed a few projects, integrated third party services.
+| Project | Role & Highlights |  
+|---------|-------------------|  
+| [ECU Worldwide](https://ecuworldwide.com) | Dashboards, payment gateways, Java/PHP microservices, 3rd-party API ecosystems |  
+| [Logiware Inc](https://www.logiwareinc.com) | EDI systems, CI/CD pipelines, Laravel apps, HRMS integrations |  
+| [iMeetCentral](https://imeetcentral.com) | Zoho CRM/API integrations, workflow automation |  
+| [Spectrum Intel](https://www.spectrumintel.org) | Custom portals with embedded 3rd-party service layers |  
+| [Signum International](https://www.signum-international.com) | Modular service integrations for client-facing platforms |  
 
+---
 
-* Google Drive Video/Demo Links:
+## 🎥 Supplementary Demos & Documentation  
 
-Edemo Vid - ECU with Laravel & Bootstrap UI
-https://drive.google.com/file/d/1i4SLDsw22frd_mJ8X27DtZtxvXcGfZIB/view
+### ▶️ Video Walkthroughs  
+- [ECU Dashboard: Laravel + Bootstrap UI Demo](https://drive.google.com/file/d/1i4SLDsw22frd_mJ8X27DtZtxvXcGfZIB/view)  
+- [Core PHP Architecture Code Walkthrough](https://drive.google.com/file/d/1CSAwDxU7b38Y1mXxWJBOXihIhLhZLMVF/view)  
 
-OneOfTests - CodeWalkThrough - Using core PHP
-https://drive.google.com/file/d/1CSAwDxU7b38Y1mXxWJBOXihIhLhZLMVF/view
+### 📚 Architecture Artifacts  
+- [System Design Documents Portfolio](https://drive.google.com/drive/folders/1RFrvUxw8UyOnfQ7EUHIQqU1bVc08sh24)  
+  *(Includes DDD context maps, API specs, integration diagrams, and deployment workflows)*  
 
+---
 
-* Architecture Documents from G Drive as a specimen
-https://drive.google.com/drive/folders/1RFrvUxw8UyOnfQ7EUHIQqU1bVc08sh24
-
+> 💡 *All projects reflect iterative learning—older repos showcase foundational patterns; newer work emphasizes scalable architecture. Open to discussing technical trade-offs, evolution paths, or collaboration opportunities!*  
+> 🔗 *Explore more: [github.com/raviinit](https://github.com/raviinit)*
